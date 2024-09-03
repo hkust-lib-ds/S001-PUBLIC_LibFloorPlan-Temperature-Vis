@@ -2,7 +2,7 @@ _HKUST Library - DS CoLab Project - S001_
 
 # Temperature Heatmap on Library Floor Plan
 
-**Project Introduction:** https://library.hkust.edu.hk/ds/project/s001/
+**Project Introduction:**  https://library.hkust.edu.hk/ds/project/s001/  
 **Timeframe:** 2023/24 Summer semester (Jul-Aug 2024)
 
 ## Preview
