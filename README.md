@@ -19,7 +19,10 @@ _HKUST Library - DS CoLab Project - S001_
     git clone https://github.com/hkust-lib-ds/S001-PUBLIC_LibFloorPlan-Temperature-Vis
     ```
 
-3. **Update \<API URL\> in heatmap-data.js and \<API Key\> in api/api.php for the API connection.**
+3. **Update \<API URL\> in "heatmap-data.js" and \<API Key\> in "api/api.php" for the API connection.**
+
+4. **This application is based on [sensor-data API](https://hkust.developer.azure-api.net/api-details#api=sensor-data&operation=sensor-data-op-1), which is available on HKUST API Developer Portal (application required). If you apply another API for this application, you are required to modify "api/api.php" and "heatmap-data.js", and place your floor plan pictures in the "floorPlan" directory.**
+   
 
 ## Project Team
 
