@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/851402707.svg)](https://doi.org/10.5281/zenodo.15266745)
+
 _HKUST Library - DS CoLab Project - S001_
 
 # Temperature Heatmap on Library Floor Plan
